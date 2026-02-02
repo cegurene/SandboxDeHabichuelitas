@@ -7,7 +7,7 @@ A medieval-themed action arcade game developed in Python using the Arcade librar
 **Bean a Hero** is a medieval action game where a weak knight gains superpowers from radioactive beans to save the world from a food contamination crisis. The game features wave-based combat, boss battles, and unique power-ups obtained throughout the adventure.
 
 ### Story
-In a distant medieval era, a food scarcity crisis led people to consume contaminated food that drove them mad. A weak knight becomes humanity's last hope by harnessing the power of mysterious Radioactive Beans to defeat the infected and restore the world's food supply.
+In a distant medieval era, a food scarcity crisis led people to consume contaminated food that drove them mad. A weak knight becomes humanity's last hope by harnessing the power of mysterious Radioactive Beans to defeat the infected and restore peace to the world.
 
 ## 🎮 Game Features
 
@@ -61,7 +61,7 @@ SandboxDeHabichuelitas/
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.8 or higher
 - pip (Python package manager)
 
 ### Installation
